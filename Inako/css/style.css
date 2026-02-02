@@ -181,6 +181,8 @@ h1, h2, h3 {
 
 p {
     margin-bottom: 15px;
+    font-family: 'Poppins', Arial, sans-serif;
+
    
 }
 
@@ -588,3 +590,4 @@ footer {
         display: flex;
     }
 }
+
