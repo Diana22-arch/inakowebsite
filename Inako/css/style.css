@@ -456,13 +456,7 @@ footer {
     text-align: center;
 }
 
-.founder-image img {
-    width: 220px;
-    height: 220px;
-    object-fit: cover;
-    border-radius: 50%;
-    margin-bottom: 15px;
-}
+
 
 .founder-role {
     font-weight: bold;
@@ -592,5 +586,6 @@ footer {
         display: flex;
     }
 }
+
 
 
