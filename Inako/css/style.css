@@ -586,6 +586,10 @@ footer {
         display: flex;
     }
 }
+* Hide founder image */
+.founder-image {
+    display: none !important;
+}
 
 
 
